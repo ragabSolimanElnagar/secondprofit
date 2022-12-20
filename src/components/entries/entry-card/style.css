@@ -1,0 +1,57 @@
+.card{  
+    height: 420px;
+    width:350px;
+    margin-bottom: 10px;
+    position: relative;
+}
+
+.header{
+    display:flex;
+    justify-content:space-between;
+    padding:16px;
+    align-items:center;
+}
+
+.button{
+    margin:0 3px;
+}
+
+.toggleButton{
+    width:25px;
+    height:25px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+
+.cardText{
+    margin-top: 15px;
+    text-align: left;
+    margin-bottom: 15px !important;
+    width: 100%;
+}
+
+.dropMenu{
+    display: flex;
+    justify-content: flex-end;
+    margin: 7px;
+}
+
+.group{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin:8px 0;
+}
+
+.groupValue{
+    margin:0;
+}
+
+.link{
+    padding-top: 16px;
+    width: 100%;
+    bottom: 0px;
+    word-break: break-all;
+    text-align: left;
+}

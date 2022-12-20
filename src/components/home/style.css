@@ -1,0 +1,21 @@
+.container{
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+}
+
+.button{
+    margin-bottom: 20px;
+}
+
+.row{
+    justify-content: center;
+}
+
+.spinnerContainer{
+    height:88vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
