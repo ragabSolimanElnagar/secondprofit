@@ -1,14 +1,18 @@
 <h1 align="center">
-   crards view list  App 📝
+   cards view list  App 📝
 </h1>
 
 <p align="center">
-  🖊️  crards view list  built using <a href="https://reactjs.org/">React js</a> and <a href="https://react-bootstrap.github.io/">react-bootstrap</a>
+  🖊️ cards view list built using <a href="https://reactjs.org/">React js</a> and <a href="https://react-bootstrap.github.io/">react-bootstrap</a>
+  Integrate with OIDC server to handle the login process.
+Online OIDC server for Developers.
+<a href="https://openidconnect.net/">OIDC server</a> 
+
 </p>
 <p align="center"></p>
 
 
-## This is a  simple Todo App built using React.js  and styled using  react-bootstrap UI.
+## This is a  simple cards view list built using React.js  and styled using  react-bootstrap UI.
 
 
 
@@ -31,7 +35,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/eman275/to-do-App/blob/master/README.md).
+You can find the most recent version of this guide [here](https://github.com/ragabSolimanElnagar/secondprofit/master/README.md).
 
 ## Table of Contents
 
@@ -48,7 +52,7 @@ You can find the most recent version of this guide [here](https://github.com/ema
 
 ## Updating to New Releases
 
-Create React App  with typeScript is divided into two packages:
+Create React App  with JavaScript is divided into two packages:
 
 - `create-react-app` is a global command-line utility that you use to create new projects.
 - `react-scripts` is a development dependency in the generated projects (including this one).
@@ -127,7 +131,7 @@ Support for Internet Explorer 9, 10, and 11 requires [polyfills](https://github.
 
 ### Supported Language Features
 
-This project supports a superset of the latest javascript and  typescript standard.<br>
+This project supports a superset of the latest javascript standard.<br>
 In addition to [ES6](https://github.com/lukehoban/es6features) syntax features, it also supports:
 
 - [Exponentiation Operator](https://github.com/rwaldron/exponentiation-operator) (ES2016).
