@@ -29,13 +29,13 @@ Online OIDC server for Developers.
 
 1. Clone this repo by running `git clone https://github.com/ragabSolimanElnagar/secondprofit`.
 2. git help docs could help you `https://git-scm.com/docs/git-help` ,
-3. `cd` into the `todo-app` folder and run `npm i` or `yarn`.
+3. `cd` into the `secondprofit` folder and run `npm i` or `yarn`.
 4. Run `npm start` OR `yarn start` to start the development server.
 # Getting Started with Create React App
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
-You can find the most recent version of this guide [here](https://github.com/ragabSolimanElnagar/secondprofit/master/README.md).
+You can find the most recent version of this guide [here](https://github.com/ragabSolimanElnagar/secondprofit).
 
 ## Table of Contents
 
