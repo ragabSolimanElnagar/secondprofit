@@ -11,7 +11,7 @@ root.render(
   <Auth0Provider
     domain="dev-r80sv2h4zqhcgvwa.us.auth0.com"
     clientId="XDE11WIOtFtv36tJNsFJzklxmlLB07fg"
-    redirectUri='http://localhost:3000/'
+    redirectUri='https://secondprofit.vercel.app/'
   >
     <React.StrictMode>
       <Provider store={store}>
